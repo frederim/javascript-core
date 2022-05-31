@@ -1,2 +1,1 @@
-alert("Hellow World");
-alert("Second Message");
+showMessage("Changes...");
