@@ -1,5 +1,7 @@
+let welcome = 'welcome'
+
 // show the title
-showMessage("Title...");
+showMessage(welcome);
 let price = 149.99;
 /*
     Detail complex logic...
